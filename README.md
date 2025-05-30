@@ -13,7 +13,6 @@
 - 🔍 Receive feedback and performance ratings  
 - 📊 View all your mock sessions in one place  
 - 🔐 Authentication using email  
-- ⚙️ Built for scale with PostgreSQL (via Neon), Drizzle ORM, and serverless infrastructure  
 
 ---
 
