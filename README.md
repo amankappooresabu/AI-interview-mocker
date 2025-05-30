@@ -8,7 +8,7 @@
 
 ## 🚀 Features
 
-- 🎯 Generate tailored mock interview questions using LLMs  
+- 🎯 Generate tailored mock interview questions using Gemini API  
 - ✍️ Submit and save your answers  
 - 🔍 Receive feedback and performance ratings  
 - 📊 View all your mock sessions in one place  
